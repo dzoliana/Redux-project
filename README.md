@@ -13,9 +13,21 @@ Redux project exercise that displays counter, and user authentication.
 
 ## Using
 
--Redux - creating Redux store - providing the store - using Redux data in React components - dispatching actions from inside components - attaching payloads to actions - working with multiple state properties
+- Redux
 
--Redux toolkit - adding state slices - connesting redux toolkit state - migrating everything to Redux Toolkit - working with multiple slices - reading and dispatching from a new slice
+  - creating Redux store
+  - providing the store
+  - using Redux data in React components
+  - dispatching actions from inside components
+  - attaching payloads to actions
+  - working with multiple state properties
+
+- Redux toolkit
+  - adding state slices
+  - connesting redux toolkit state
+  - migrating everything to Redux Toolkit
+  - working with multiple slices
+  - reading and dispatching from a new slice
 
 ## Getting started
 
